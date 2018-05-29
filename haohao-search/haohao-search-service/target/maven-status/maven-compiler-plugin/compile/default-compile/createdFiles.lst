@@ -1,0 +1,6 @@
+com\hao\search\message\ItemChangeListener.class
+com\hao\search\service\impl\IndexServiceImpl.class
+com\hao\search\dao\impl\SearchDaoImpl.class
+com\hao\search\mapper\ItemMapper.class
+com\hao\search\dao\SearchDao.class
+com\hao\search\service\impl\SearchServiceImpl.class

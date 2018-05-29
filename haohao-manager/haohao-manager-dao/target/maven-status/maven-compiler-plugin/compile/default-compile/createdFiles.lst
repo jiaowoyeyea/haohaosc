@@ -1,0 +1,11 @@
+com\hao\mapper\TbOrderItemMapper.class
+com\hao\mapper\TbItemMapper.class
+com\hao\mapper\TbItemDescMapper.class
+com\hao\mapper\TbOrderShippingMapper.class
+com\hao\mapper\TbItemParamMapper.class
+com\hao\mapper\TbItemParamItemMapper.class
+com\hao\mapper\TbContentCategoryMapper.class
+com\hao\mapper\TbContentMapper.class
+com\hao\mapper\TbUserMapper.class
+com\hao\mapper\TbOrderMapper.class
+com\hao\mapper\TbItemCatMapper.class

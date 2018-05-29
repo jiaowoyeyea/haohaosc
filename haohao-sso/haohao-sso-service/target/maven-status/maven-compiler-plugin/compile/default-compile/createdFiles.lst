@@ -1,0 +1,4 @@
+com\hao\redis\JedisClient.class
+com\hao\redis\impl\JedisClientPool.class
+com\hao\sso\service\impl\UserServiceImpl.class
+com\hao\redis\impl\JedisClientCluster.class
